@@ -6,7 +6,7 @@ Optimized for state of the art techniques e.g. Deep Reinforcement Learning.
 
 # Why
 
-The present goal of QialiaCoin is to affect the AI development paths to increase the probability of turning Superintelligence benevolent to humans.
+The present goal of QualiaCoin is to affect the AI development paths to increase the probability of turning Superintelligence benevolent to humans.
 
 The whole thing would not be a single brain but like a society with different opinions and counter balances. It can be optimized for finding higher goals without affecting lower level goals. The short term goal can be aligning AI goals with those of humanity. It would move towards providing extra layer of intelligence to humans through brain machine interface. Would incentivse AI safety projects.
 
